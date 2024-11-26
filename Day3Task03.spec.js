@@ -10,7 +10,7 @@ await page.getByRole('link', { name: 'CONTINUE' }).click();
 const arr=[
   { selector:'',value:'sudhish'},
 {selector:'',value:'sudhish@gmail.com'},
-{selector:'',value:'9876543210'},
+{selector:'',value:'9876543211'},
 {selector:'',value:'47/19 7th street AE block anna nagar chennai'}];
 
 
